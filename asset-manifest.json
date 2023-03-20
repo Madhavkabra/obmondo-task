@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/obmondo-task/static/css/main.8456fd83.css",
-    "main.js": "/obmondo-task/static/js/main.f05be62d.js",
+    "main.js": "/obmondo-task/static/js/main.1cd8da0c.js",
     "index.html": "/obmondo-task/index.html",
     "main.8456fd83.css.map": "/obmondo-task/static/css/main.8456fd83.css.map",
-    "main.f05be62d.js.map": "/obmondo-task/static/js/main.f05be62d.js.map"
+    "main.1cd8da0c.js.map": "/obmondo-task/static/js/main.1cd8da0c.js.map"
   },
   "entrypoints": [
     "static/css/main.8456fd83.css",
-    "static/js/main.f05be62d.js"
+    "static/js/main.1cd8da0c.js"
   ]
 }
